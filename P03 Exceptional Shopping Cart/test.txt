@@ -1,0 +1,5 @@
+( 2 ) Pepper
+( 1 ) Blueberry
+( 1 ) Broccoli
+( 1 ) Mushroom
+( 1 ) Eggs
